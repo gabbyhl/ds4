@@ -1,0 +1,36 @@
+
+
+
+body{
+    padding: 50px;
+    background-color: rgb(211, 255, 253);
+    font-size: 100%;
+
+}
+h1{
+    font-size: 200%;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+h2{
+    font-size: 150%;
+}
+
+h3{
+    font-size: 125%;
+    font-style: italic;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.129);
+    padding: 30px, 5px;
+}
+
+
+/*
+.skip{
+
+}
+
+.skip:focus{
+    left
+} */
